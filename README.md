@@ -10,7 +10,7 @@ Unity Mocap:
 ![alt text](https://github.com/omarubilla/moveu-unity-mocap/blob/main/moveu.gif?raw=true)
 
 Designing Avatar:
-![alt text](https://github.com/omarubilla/moveu-unity-mocap/blob/main/ubillatz.gif?raw=true)
+![alt text](https://github.com/omarubilla/moveu-unity-mocap/blob/main/UbillaTZ.gif?raw=true)
 
 
 Credits: 
